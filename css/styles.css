@@ -214,10 +214,13 @@ ul {
 }
 .section4 .section-list {
   justify-content: space-between;
-  margin-top: 16px;
-  margin-right: 32px;
   padding-bottom: 30px;
+  gap: 30px;
+}
+.section4 .section-list .social {
+  margin-right: 32px;
   margin-left: 32px;
+  margin-top: 16px;
   gap: 10px;
 }
 .section4 figure {
